@@ -11,7 +11,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv6
+> git clone https://github.com/Hack-peru/botwasapv6
 ```
 
 ## Install the dependencies:
